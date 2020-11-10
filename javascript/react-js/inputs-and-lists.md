@@ -170,7 +170,7 @@ And also add the `onSubmitTask` function to our form element like so:
 ~~~javascript
 <form onSubmit={this.onSubmitTask}>
   {/* Leave all your code. Just add the onSubmit handler to the form element, or
-  as an onClick handler to the submit button, as you prefere */}
+  as an onClick handler to the submit button, as you prefer */}
 </form>
 ~~~
 
